@@ -8,5 +8,5 @@ A clean and responsive design.
 Buttons for each number and operation.
 A display area that shows the current input and result.
 A button to clear the screen.
-# [preview the site] (https://github.com/kottubadivennela/calculator.git)
+# [Preview the site](https://github.com/kottubadivennela/calculator.git)
 ![calculator](https://github.com/user-attachments/assets/49ab848e-b2c8-4193-8ede-a6444532dbf9)
